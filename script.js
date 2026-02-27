@@ -4,7 +4,8 @@ const image = document.getElementById("img");
 
 const passwords = {
     "eevee" : "sushi.png",
-    "1410" : "stardew.png"
+    "1410" : "stardew.png",
+    "tsfardu" : "eevee.jpg"
 }
 
 button.addEventListener("click", () => {
